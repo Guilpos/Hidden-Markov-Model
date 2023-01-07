@@ -1,0 +1,1 @@
+Hidden Markov Model com estratégia de ADX, RSI, SSL Channels
